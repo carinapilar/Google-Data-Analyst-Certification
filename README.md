@@ -11,4 +11,4 @@ As a **Junior Data Analyst** in the marketing analytics team at **Cyclistic**, a
 After analyzing the usage patterns of casual riders and annual members, I identified key differences in their riding behavior. Based on these insights, I developed **three strategic recommendations** for the marketing team to encourage casual riders to become annual members.
 
 ## 📂 Project File
-- **Jupyter Notebook**: Data cleaning and analysis, with interactive visualizations, and a summary of insights and recommendations.
+**Jupyter Notebook**: Data cleaning and analysis, with interactive visualizations, and a summary of insights and recommendations.
