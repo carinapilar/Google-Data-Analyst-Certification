@@ -1,4 +1,4 @@
-# 🚲 Cyclistic Bike-Share Data Analysis
+# 🚲 Case Study: Cyclistic Bike-Share Data Analysis
 
 ## 📌 Project Scenario
 As a **Junior Data Analyst** in the marketing analytics team at **Cyclistic**, a bike-share company in Chicago, I worked on analyzing how **casual riders** and **annual members** use the service differently. The goal of this project was to generate insights that could help the marketing team design a **strategy to convert casual riders into annual members**.
